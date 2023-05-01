@@ -7,8 +7,8 @@
 
 |Student name| CCID |
 |------------|------|
-|Dexter Dai | xiangtia|
-|Qingya Ye  | qye   |
+|Dexter | a|
+|Qingya| q  |
 
 # References: 
   write to a TSV file:
