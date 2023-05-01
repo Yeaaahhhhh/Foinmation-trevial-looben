@@ -5,7 +5,7 @@
 3. List all sources consulted while completing the assignment.
 
 
-|Student name| CCID |
+|Student name| ID |
 |------------|------|
 |Dexter | a|
 |Qingya| q  |
