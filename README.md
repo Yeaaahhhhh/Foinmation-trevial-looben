@@ -8,7 +8,6 @@
 |Student name| ID |
 |------------|------|
 |Dexter | a|
-|Qingya| q  |
 
 # References: 
   write to a TSV file:
